@@ -38,3 +38,9 @@ Each homework directory contains:
 
 You can download any report directly by clicking its link above or by replacing the filename in this pattern:
 
+---
+
+## 📧 Contact
+**Mohammadsaeid Safizadeh**  
+[Personal Website](https://mech.sharif.edu/~ms.safizadeh) · [LinkedIn](https://www.linkedin.com/in/saeid-safizadeh) · [Email](mailto:ms.safizadeh@gmail.com)
+
